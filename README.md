@@ -18,7 +18,7 @@ I experimented with 5 variations of `PoseNet` in order to minimize the predictio
 - 4. Modified model with rescaling of the position values [Colab Page](https://colab.research.google.com/drive/1LA7sY0f3JjhGVty6IVu8DKRb6-cet8G_?usp=sharing);
 - 5. Modified Model with Normalization of the Position Values [Colab Page](https://colab.research.google.com/drive/1PHdQss_bWv4tbT1i2bsC4i2T3W0xgMR5?usp=sharing).
 
-So far, the best result is obtained by training _Model 3_ for 500 iterations.
+So far, the best result is obtained by training _Model iii_ for 500 iterations.
 
 **Topics:** _Computer Vision_, _PoseNet_, _Pose Estimation_
 
